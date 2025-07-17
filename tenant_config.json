@@ -1,0 +1,12 @@
+{
+  "companyA": {
+    "title": "Company A Chatbot",
+    "instructions": "You are a helpful assistant for Company A. Respond professionally.",
+    "theme": "light"
+  },
+  "companyB": {
+    "title": "Company B Chatbot",
+    "instructions": "You are assisting Company B in logistics and operations.",
+    "theme": "dark"
+  }
+}
